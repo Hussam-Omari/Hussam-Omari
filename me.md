@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussam Omari, I have a master degree in Agriculture Engineer
 - 👀 I’m interested in Data science and analytics
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently working in data analysis with Python
 
 - 📫 How to reach me hussam2jamal@yahoo.com
 
